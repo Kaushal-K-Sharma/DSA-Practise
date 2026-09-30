@@ -1,0 +1,36 @@
+map, revise
+==========
+
+day 1 14-09-2026
+_____
+
+day 2
+data structures
+
+non numerical
+char ch = 'a'
+boolean check = true
+
+numerical
+byte
+short
+int
+long
+float
+decimal
+
+----
+day 3 --
+for loop
+==== ==== === ====
+day 4: 17-09-2026
+ prime
+ composite
+ digit sum
+while loop
+ ========
+
+Day 5: 19-09-2026
+_________________
+
+
